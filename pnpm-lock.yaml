@@ -1,6 +1,6 @@
 dependencies:
-  gd-sprest-bs: 5.2.8
-  gd-sprest-bs-vue: 0.2.0
+  gd-sprest-bs: 5.3.6
+  gd-sprest-bs-vue: 0.2.1
   vue: 2.6.11
   vue-router: 3.3.4
   vuex: 3.5.1_vue@2.6.11
@@ -864,7 +864,7 @@ packages:
       integrity: sha512-Ra3JXOHBq2xd56xSF7lMKXdjBn3T772Y1Wet3yWnkDly9zHvJki029tAFzvAAK5cf4YV3yoxuP61crYRol6SVg==
   /@babel/runtime/7.10.5:
     dependencies:
-      regenerator-runtime: 0.13.6
+      regenerator-runtime: 0.13.7
     dev: true
     resolution:
       integrity: sha512-otddXKhdNn7d0ptoFRHtMLa8LqDxLYwTjB4nYgM1yy5N6gU/MUf8zqyyLltCH3yAVitBzmwK4us+DD0l/MauAg==
@@ -901,7 +901,7 @@ packages:
   /@types/glob/7.1.3:
     dependencies:
       '@types/minimatch': 3.0.3
-      '@types/node': 14.0.24
+      '@types/node': 14.0.25
     dev: true
     resolution:
       integrity: sha512-SEYeGAIQIQX8NN6LDKprLjbrd5dARM5EXsd8GI/A5l0apYI1fGMWgPHSe4ZKL4eozlAyI+doUE9XbYS4xCkQ1w==
@@ -913,11 +913,11 @@ packages:
     dev: true
     resolution:
       integrity: sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
-  /@types/node/14.0.24:
+  /@types/node/14.0.25:
     dev: true
     resolution:
-      integrity: sha512-btt/oNOiDWcSuI721MdL8VQGnjsKjlTMdrKyTcLCKeQp/n4AAMFJ961wMbp+09y8WuGPClDEv07RIItdXKIXAA==
-  /@vue/component-compiler-utils/3.1.2:
+      integrity: sha512-okMqUHqrMlGOxfDZliX1yFX5MV6qcd5PpRz96XYtjkM0Ws/hwg23FMUqt6pETrVRZS+EKUB5HY19mmo54EuQbA==
+  /@vue/component-compiler-utils/3.2.0:
     dependencies:
       consolidate: 0.15.1
       hash-sum: 1.0.2
@@ -931,7 +931,7 @@ packages:
     optionalDependencies:
       prettier: 1.19.1
     resolution:
-      integrity: sha512-QLq9z8m79mCinpaEeSURhnNCN6djxpHw0lpP/bodMlt5kALfONpryMthvnrQOlTcIKoF+VoPi+lPHUYeDFPXug==
+      integrity: sha512-lejBLa7xAMsfiZfNp7Kv51zOzifnb29FwdnMLa96z26kXErPFioSf9BMcePVIQ6/Gc6/mC0UrPpxAWIHyae0vw==
   /@webassemblyjs/ast/1.9.0:
     dependencies:
       '@webassemblyjs/helper-module-context': 1.9.0
@@ -1535,10 +1535,10 @@ packages:
       integrity: sha512-Z942RysHXmJrhqk88FmKBVq/v5tqmSkDz7p54G/MGyjMnCFFnC79XWNbg+Vta8W6Wb2qtSZTSxIGkJrRpCFEiA==
   /browserslist/4.13.0:
     dependencies:
-      caniuse-lite: 1.0.30001104
-      electron-to-chromium: 1.3.502
+      caniuse-lite: 1.0.30001105
+      electron-to-chromium: 1.3.505
       escalade: 3.0.2
-      node-releases: 1.1.59
+      node-releases: 1.1.60
     dev: true
     engines:
       node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7
@@ -1638,10 +1638,10 @@ packages:
       node: '>=6'
     resolution:
       integrity: sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
-  /caniuse-lite/1.0.30001104:
+  /caniuse-lite/1.0.30001105:
     dev: true
     resolution:
-      integrity: sha512-pkpCg7dmI/a7WcqM2yfdOiT4Xx5tzyoHAXWsX5/HxZ3TemwDZs0QXdqbE0UPLPVy/7BeK7693YfzfRYfu1YVpg==
+      integrity: sha512-JupOe6+dGMr7E20siZHIZQwYqrllxotAhiaej96y6x00b/48rPt42o+SzOSCPbrpsDWvRja40Hwrj0g0q6LZJg==
   /caseless/0.12.0:
     dev: true
     resolution:
@@ -2216,10 +2216,10 @@ packages:
     dev: true
     resolution:
       integrity: sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
-  /electron-to-chromium/1.3.502:
+  /electron-to-chromium/1.3.505:
     dev: true
     resolution:
-      integrity: sha512-TIeXOaHAvfP7FemGUtAJxStmOc1YFGWFNqdey/4Nk41L9b1nMmDVDGNMIWhZJvOfJxix6Cv5FGEnBK+yvw3UTg==
+      integrity: sha512-Aunrp3HWtmdiJLIl+IPSFtEvJ/4Q9a3eKaxmzCthaZF1gbTbpHUTCU2zOVnFPH7r/AD7zQXyuFidYXzSHXBdsw==
   /elliptic/6.5.3:
     dependencies:
       bn.js: 4.11.9
@@ -2360,12 +2360,12 @@ packages:
     dev: true
     resolution:
       integrity: sha512-rlaVLnVxtxvoyLsQQFBx53YmXHDxRIzzTLbdfxqi4yocpSjAxXwkU0cScM5JgSKMqEhrZpnvQ2D9gjylR0AimQ==
-  /events/3.1.0:
+  /events/3.2.0:
     dev: true
     engines:
       node: '>=0.8.x'
     resolution:
-      integrity: sha512-Rv+u8MLHNOdMjTAFeT3nCjHn2aGlx435FP/sDHNaRhDEMwyI/aB22Kj2qIN8R0cw3z28psEQLYwxVKLsKrMgWg==
+      integrity: sha512-/46HWwbfCX2xTawVfkKLGxMifJYQBWMwY1mjywRtb4c9x8l5NP3KoJtnIOiL1hfdRkIuYhETxQlo62IF8tcnlg==
   /eventsource/1.0.7:
     dependencies:
       original: 1.0.2
@@ -2736,47 +2736,47 @@ packages:
       node: '>= 4.0.0'
     resolution:
       integrity: sha512-BRdNm8hbWzFzWHERTrejLqwHDfS4GibPoq5wjTPIoJHoBtKGPg3xAFfxmM+9ztbXelxcf2hwQcaz1PtmFeue8g==
-  /gd-bs-vue/0.2.2:
+  /gd-bs-vue/0.2.3:
     dependencies:
-      gd-bs: 3.1.2
+      gd-bs: 3.1.3
       vue: 2.6.11
     dev: false
     resolution:
-      integrity: sha512-m5HREVVW9x9zyBxkjA2PCpzMvwfT/1PcWXzR/KgcECGoUuWu98W8XmTTMirokZX+GNy3iosviCyjnwqa9MtZ3g==
-  /gd-bs/3.1.2:
+      integrity: sha512-l2mcXPqzNw6vblnBfWYNdoQ066sFyUgPjGve3qZtRZjtICKEwBXkyKjfpTqM1m+NR6jhvq+n2RAnl2WpVnPiQQ==
+  /gd-bs/3.1.3:
     dependencies:
       bootstrap: 5.0.0-alpha1_popper.js@1.16.1
       popper.js: 1.16.1
     dev: false
     resolution:
-      integrity: sha512-HSir7DKWip/ngdpzmlPERe5FdS5f50ZWUkd3GEspNXr1q/UxyHpTopIQpaC1IuEwxtc7hmKgxXGEVdTdZOhSJQ==
-  /gd-sprest-bs-vue/0.2.0:
+      integrity: sha512-QoQmmtSFNdmr7uWlnf6vaneJLenkZA2K+Co5csVsTzFmZy1W8p1EJyA/xMw4GnG5zEx/fdk/PxvWbFYSYK2Nfg==
+  /gd-sprest-bs-vue/0.2.1:
     dependencies:
-      gd-bs-vue: 0.2.2
-      gd-sprest-bs: 5.2.8
+      gd-bs-vue: 0.2.3
+      gd-sprest-bs: 5.3.6
     dev: false
     resolution:
-      integrity: sha512-7NrdRR0zM5EDDM/XCJ/2YgNO8g6HxPBJ7aRauidJY6DwbRKz7l2KwBiTC1fqkeb1758DHDlMxJTbirgv3wojqQ==
-  /gd-sprest-bs/5.2.8:
+      integrity: sha512-UzL6M0QeVYFyZgwaKzsrAaPYN35HuPl/0/zH/+BbvVE4NadwV6NUgkvWktKKuqI638DhJ0/GRrCVXNZE6+1Law==
+  /gd-sprest-bs/5.3.6:
     dependencies:
       flatpickr: 4.6.3
-      gd-bs: 3.1.2
-      gd-sprest: 5.9.0
-      gd-sprest-def: 0.7.8
+      gd-bs: 3.1.3
+      gd-sprest: 5.9.6
+      gd-sprest-def: 0.8.5
     dev: false
     resolution:
-      integrity: sha512-ngyLkSuAIicwsvkCfCt+FgY9E6a+0aZIe82awS96aaeFB60aGAiJ/m2VkGjfAd3xcgyChBfuqq059kOR2COgag==
-  /gd-sprest-def/0.7.8:
+      integrity: sha512-oYnP3TNyr0WY/pdTj9fhjC03w+bD90k8TWqRU/oR7SDpIrU2nutRielGNlgNQEw2euA8DKJnAR52rEkcUzPaig==
+  /gd-sprest-def/0.8.5:
     dev: false
     resolution:
-      integrity: sha512-p6VkuY5dP2IJMHeFRR1sp0gdHIDPOOuipxRwo8BrNQlDzGDM++lFCQxulgmPUONt66zdoh7ZxigxzNZcn8QQ8A==
-  /gd-sprest/5.9.0:
+      integrity: sha512-6tD3Wbb7Iwwk+PCITiOEhmMqTifuV9D7J6aFQpTAN30eIgpTJhSZC+iqaNonbc2OTT1BHoGXN9x6NiD+/LT7AQ==
+  /gd-sprest/5.9.6:
     dependencies:
       core-js: 3.6.5
-      gd-sprest-def: 0.7.8
+      gd-sprest-def: 0.8.5
     dev: false
     resolution:
-      integrity: sha512-94t8wmOniESKAqpVyyX8lW0R23y5ZpwswbPNq+BSTR5usKqkyP2eGQusDWi+VdVizrRAqfCuNQKy1oXpMdNzQA==
+      integrity: sha512-z/feKBAPAbSGPjdC99A1NorTnxAgtGTB+O1iLt1Rq+DewKCSVGjF/+RNtuXs84YvIR7U9yzMtf/rpnvRs8NREw==
   /gensync/1.0.0-beta.1:
     dev: true
     engines:
@@ -4051,7 +4051,7 @@ packages:
       constants-browserify: 1.0.0
       crypto-browserify: 3.12.0
       domain-browser: 1.2.0
-      events: 3.1.0
+      events: 3.2.0
       https-browserify: 1.0.0
       os-browserify: 0.3.0
       path-browserify: 0.0.1
@@ -4070,10 +4070,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-h/zcD8H9kaDZ9ALUWwlBUDo6TKF8a7qBSCSEGfjTVIYeqsioSKaAX+BN7NgiMGp6iSIXZ3PxgCu8KS3b71YK5Q==
-  /node-releases/1.1.59:
+  /node-releases/1.1.60:
     dev: true
     resolution:
-      integrity: sha512-H3JrdUczbdiwxN5FuJPyCHnGHIFqQ0wWxo+9j1kAXAzqNMAHlo+4I/sYYxpyK0irQ73HgdiyzD32oqQDcU2Osw==
+      integrity: sha512-gsO4vjEdQaTusZAEebUWp2a5d7dF5DYoIpDG7WySnk7BuZDW+GPpHXoXXuYawRBr/9t5q54tirPz79kFIWg4dA==
   /node-sass/4.14.1:
     dependencies:
       async-foreach: 0.1.3
@@ -4792,10 +4792,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-j2+C8+NtXQgEKWk49MMP5P/u2GhnahTtVkRIHr5R5lVRlbKvmQ+oS+A5aLKWp2ma5VkT8sh6v+v4hbH0YHR66A==
-  /regenerator-runtime/0.13.6:
+  /regenerator-runtime/0.13.7:
     dev: true
     resolution:
-      integrity: sha512-GmwlGiazQEbOwQWDdbbaP10i15pGtScYWLbMZuu+RKRz0cZ+g8IUONazBnaZqe7j1670IV1HgE4/8iy7CQPf4Q==
+      integrity: sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==
   /regenerator-transform/0.14.5:
     dependencies:
       '@babel/runtime': 7.10.5
@@ -5890,7 +5890,7 @@ packages:
       integrity: sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==
   /vue-loader/15.9.3_6744650c5da92901421f33388a4899bc:
     dependencies:
-      '@vue/component-compiler-utils': 3.1.2
+      '@vue/component-compiler-utils': 3.2.0
       css-loader: 3.6.0_webpack@4.43.0
       hash-sum: 1.0.2
       loader-utils: 1.4.0
@@ -6213,21 +6213,21 @@ packages:
     resolution:
       integrity: sha512-AX3Zw5iPruN5ie6xGRIDgqkT+ZhnRlZMLMHAs8tg7nRruy2Nb+i5o9bwghAogtM08q1dpr2LVoS8KSTMYpWXUw==
 specifiers:
-  '@babel/core': ^7.10.5
-  '@babel/preset-env': ^7.10.4
-  babel-loader: ^8.1.0
-  css-loader: ^3.6.0
-  gd-sprest-bs: ^5.2.8
-  gd-sprest-bs-vue: ^0.2.0
-  node-sass: ^4.14.1
-  sass-loader: ^9.0.2
-  style-loader: ^1.2.1
-  ts-loader: ^8.0.1
-  vue: ^2.6.11
-  vue-loader: ^15.9.3
-  vue-router: ^3.3.4
-  vue-template-compiler: ^2.6.11
-  vuex: ^3.5.1
-  webpack: ^4.43.0
-  webpack-cli: ^3.3.12
-  webpack-dev-server: ^3.11.0
+  '@babel/core': '*'
+  '@babel/preset-env': '*'
+  babel-loader: '*'
+  css-loader: '*'
+  gd-sprest-bs: '*'
+  gd-sprest-bs-vue: '*'
+  node-sass: '*'
+  sass-loader: '*'
+  style-loader: '*'
+  ts-loader: '*'
+  vue: '*'
+  vue-loader: '*'
+  vue-router: '*'
+  vue-template-compiler: '*'
+  vuex: '*'
+  webpack: '*'
+  webpack-cli: '*'
+  webpack-dev-server: '*'

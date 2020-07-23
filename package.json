@@ -21,25 +21,25 @@
   },
   "homepage": "https://github.com/gunjandatta/sprest-vue-starter#readme",
   "dependencies": {
-    "gd-sprest-bs": "^5.2.8",
-    "gd-sprest-bs-vue": "^0.2.0",
-    "vue": "^2.6.11",
-    "vue-router": "^3.3.4",
-    "vuex": "^3.5.1"
+    "gd-sprest-bs": "*",
+    "gd-sprest-bs-vue": "*",
+    "vue": "*",
+    "vue-router": "*",
+    "vuex": "*"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
-    "@babel/preset-env": "^7.10.4",
-    "babel-loader": "^8.1.0",
-    "css-loader": "^3.6.0",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^9.0.2",
-    "style-loader": "^1.2.1",
-    "ts-loader": "^8.0.1",
-    "vue-loader": "^15.9.3",
-    "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-loader": "*",
+    "css-loader": "*",
+    "node-sass": "*",
+    "sass-loader": "*",
+    "style-loader": "*",
+    "ts-loader": "*",
+    "vue-loader": "*",
+    "vue-template-compiler": "*",
+    "webpack": "*",
+    "webpack-cli": "*",
+    "webpack-dev-server": "*"
   }
 }
